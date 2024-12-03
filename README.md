@@ -1,2 +1,2 @@
 # bisection_method
-An algorithm to solve non linear equation using the Bisection Method 
+A Python algorithm to solve non linear equations using the Bisection Method 
